@@ -1,2 +1,2 @@
-<h2>works82</h2>
-<p>This repository is dedicated to my journey into the realm of computing, as the name says, they are my works, well! not all, amidst the collaborations and ... you get the idea.</p>
+<h1>Works82 Repository</h1>
+<p>Hello@you!, the repository is my journey into the realm of computing, the science and the fun! As the name implies, works82.</p>
