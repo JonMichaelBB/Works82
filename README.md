@@ -1,4 +1,2 @@
-# Works82
-
-This Repository is dedicated towards ideas, collaborations and random things as I come and go, but MetaWork is to be a private 
-repository where the things to come about crow find expression.
+<h2>works82</h2>
+<p>This repository is dedicated to my journey into the realm of computing, as the name says, they are my works, well! not all, amidst the collaborations and ... you get the idea.</p>
